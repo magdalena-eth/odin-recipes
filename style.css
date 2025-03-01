@@ -1,0 +1,27 @@
+
+head{
+    font-family: Arial, sans-serif, Tahoma;
+    background-color: antiquewhite;
+    color: darkgreen;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, sans-serif, Tahoma;
+    background-color: antiquewhite;
+    color: darkslategrey;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #007Bff;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
